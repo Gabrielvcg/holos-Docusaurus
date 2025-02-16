@@ -9,8 +9,7 @@ const FeatureList = [
     description: (
       <>
         La base de gestión de conocimiento del grupo 1 de ISPP 24-25 
-        se ha creado mediante el uso de Docusaurus. Un generador de sitios web
-        estáticos de código abierto desarrollado por Facebook. De esta manera, 
+        se ha creado mediante el uso de Docusaurus. De esta manera, 
         facilitamos la gestión de código y el acceso a la documentación en línea.
       </>
     ),
