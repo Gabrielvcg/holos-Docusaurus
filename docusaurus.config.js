@@ -142,7 +142,7 @@ const config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Holos, S.A. Construido con Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
