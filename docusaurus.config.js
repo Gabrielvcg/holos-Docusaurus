@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Holos',
-  tagline: 'Dinosaurs are cool',
+  tagline: '¿Como va el proyecto?',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -73,13 +73,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
+      // Replace with your project's social card (no se donde aparece)
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Holos',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Holos Logo',
+          src: 'img/logo.png',
         },
         items: [
           {
