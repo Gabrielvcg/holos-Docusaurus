@@ -69,7 +69,7 @@ const config = {
           position: 'left',
           items: [
             { label: 'Introducción', to: 'docs/Feedback/intro-feedback' },
-            { label: 'Detalles', to: 'docs/Feedback/detalles' },
+            { label: 'Otros grupos', to: 'docs/Feedback/Otros Grupos' },
           ],
         },
         {
