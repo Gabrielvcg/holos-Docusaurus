@@ -4,32 +4,36 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Fácil de usar',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        La base de gestión de conocimiento del grupo 1 de ISPP 24-25 
+        se ha creado mediante el uso de Docusaurus. Un generador de sitios web
+        estáticos de código abierto desarrollado por Facebook. De esta manera, 
+        facilitamos la gestión de código y el acceso a la documentación en línea.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Estructura',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      La estructura que se va a utilizar para esta base de gestión del conocimiento se divide en:<br /><br />
+      - <b>Actas:</b> en la cual se va a guardar todas las actas de las reuniones y estará dividido en frontend o backend.<br />
+      - <b>Feedback:</b> donde se recogerá todos los comentarios proporcionados por los profesores.<br />
+      - <b>Entregables pasados:</b> donde estarán las carpetas con los documentos entregados en el pasado.<br />
+      - <b>Documentación:</b> donde estarán todos los documentos actualizados en este sprint.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Landing Page',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Nuestra Landing Page se encuentra desplegada en <a href="https://holos.es/">holos.es</a>. 
       </>
     ),
   },
