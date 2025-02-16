@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Fácil de usar',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/simple_brush.svg').default,
     description: (
       <>
         La base de gestión de conocimiento del grupo 1 de ISPP 24-25 
@@ -15,9 +15,9 @@ const FeatureList = [
       </>
     ),
   },
-  {
+  { 
     title: 'Estructura',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/art_palette.svg').default,
     description: (
       <>
       La estructura que se va a utilizar para esta base de gestión del conocimiento se divide en:<br /><br />
@@ -30,7 +30,7 @@ const FeatureList = [
   },
   {
     title: 'Landing Page',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/landing_page.svg').default,
     description: (
       <>
         Nuestra Landing Page se encuentra desplegada en <a href="https://holos.es/">holos.es</a>. 
