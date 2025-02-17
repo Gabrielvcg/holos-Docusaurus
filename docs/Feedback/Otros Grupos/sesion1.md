@@ -10,7 +10,7 @@
 
 ## Grupo 2
 
-GEZSTOCK 
+**GEZSTOCK** 
 
 Ayuda a la gestión de inventarios y mejora de logística mediante IA, publico objetivo: PYMES
 
@@ -36,7 +36,7 @@ Se debe especificar mejor los salarios, mayor transparencia, más detalles, les 
 
 ## Grupo 3
 
-EVENTBRIDE 
+**EVENTBRIDE** 
 
 Aplicación para gestionar eventos cristianos; bodas, bautizos y comuniones
 
@@ -64,7 +64,7 @@ Todos tenemos que ahondar mas en los casos de uso y en la tabla comparativa con 
 
 ## Grupo 4
 
-BORROO
+**BORROO**
 
 Aplicación para generalizar el alquiler de objetos, es de matchmaking-improved market
 
@@ -106,7 +106,7 @@ Quedan muchas mas cosas en el tintero, se le acaba el tiempo.
 
 ## Grupo 5
 
-Camyo
+**Camyo**
 
 App para juntar camioneros con empresas
 
@@ -131,7 +131,7 @@ Poner datos en crudo que ni se ven es mala idea, decidir que nivel de informaci�
 
 ## Grupo 6
 
-Gallery Guide App
+**Gallery Guide App**
 
 Mapas virtuales de cada museo y rutas guiadas según preferencias, no como Google maps, sino como un plano
 

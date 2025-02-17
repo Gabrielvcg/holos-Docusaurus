@@ -8,6 +8,10 @@
 
 **Lugar: Aula H1.12**
 
+**Holos**
+
+App para venta de obras de artistas.
+
 **Feedback de estudiantes**
 
 Desde su perspectiva si la "IA" vuelve a fallar sería grave

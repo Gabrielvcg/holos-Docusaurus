@@ -10,7 +10,7 @@
 
 ## Grupo 2
 
-GastroStock
+**GastroStock**
 
 Ayuda a la gestión de inventarios de bares y mejora de logística mediante IA.
 
@@ -48,7 +48,7 @@ como haya una sola palabra en una presentación que no se vea es un suspenso dir
 
 ## Grupo 3
 
-EVENTBRIDE 
+**EVENTBRIDE** 
 
 Aplicación para gestionar eventos cristianos; bodas, bautizos y comuniones
 
@@ -90,7 +90,7 @@ No han tenido en cuenta la infraestructura en el desarrollo en los costes
 
 ## Grupo 4
 
-BORROO
+**BORROO**
 
 Aplicación para generalizar el alquiler de objetos, es de matchmaking-improved market
 
@@ -120,7 +120,7 @@ Tienen 185 competidores, quizás no tengan que poner los que no se centren espec
 
 ## Grupo 5
 
-Camyo
+**Camyo**
 
 App para juntar camioneros con empresas
 
@@ -156,7 +156,7 @@ a nivel de quipo, necesitan responsabilidades concretas, quien es el manager?, p
 
 ## Grupo 6
 
-FisioFind
+**FisioFind**
 
 App para consultas de fisioterapia
 

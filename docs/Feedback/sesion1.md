@@ -8,6 +8,10 @@
 
 **Lugar: Aula H1.12**
 
+**Convivio**
+
+App para gestión de convivencia en pisos.
+
 **Feedback de estudiantes**
 
 No ha quedado claro que problema estamos intentando solucionar, es decir, nuestro factor diferenciador.
