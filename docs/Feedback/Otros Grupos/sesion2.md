@@ -194,6 +194,7 @@ le gustan que tengan ya datos como cuantos usuarios serian necesario para rentab
 
 ## Feedback de la sesión
 
+
 ## Tareas
 
 Elevator pitch 50 palabras describiendo la temática
