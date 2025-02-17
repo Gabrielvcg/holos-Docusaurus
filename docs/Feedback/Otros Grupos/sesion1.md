@@ -167,4 +167,58 @@ Refinar el Charter Goal, la composición,etc.. con un nivel de detalle asumible-
 
 ## Tareas
 
+Idea de negocio (max 50 palabras la idea)
+Tipo de negocio [entre los 4 cuadrantes]
+Análisis de competidores preliminar [búsqueda exhaustiva]
+Análisis de coste preliminar
+Usuarios pilotos potenciales
+DAFO preliminar (debilidades, amenazas, fortalezas y oportunidades)
+MVP 
+Grado de innovación tecnológica y justificación tecnológica
+Cliente y usuario (roles)
+Análisis de equipo y modelo organizacional, composición de equipo (skills) y estructura
+Report uso de IA (uso correcto grupal, prompts, IA utilizada, etc.)
+Casos de uso core del MVP
+Documentación como código, gestión del conocimiento
+
 ## Otras anotaciones
+
+Palabras clave
+Análisis, Recomendaciones, Gestión del Tiempo, Proyectos, Análisis Crítico, Modelo de Software, Estrategia, Planificación, Epic, Funcionalidad, Innovación tecnológica
+
+Resumen
+Análisis de la Sesión y Recomendaciones
+- Se identifica la necesidad de mejora en el desempeño del primer participante, atribuyéndolo a la normalidad de los errores cometidos.
+- Se enfatiza la importancia de la moderación y la educación en las interacciones futuras.
+- Se recomienda un cambio de participante para la siguiente sesión, debido a limitaciones de tiempo y la necesidad de mantener la tranquilidad.
+
+Gestión del Tiempo en Proyectos
+- Se destaca la importancia de un sistema de gestión del tiempo para evitar retrasos.
+- Se menciona la necesidad de claridad sobre el presupuesto temporal y la velocidad de exposición de la información.
+- Se enfatiza la importancia de ajustar el nivel de detalle de la información a tiempo disponible y la identificación de roles.
+
+Análisis Crítico de un Modelo de Software
+- Se enfatiza la necesidad de un enfoque detallado y preciso en la descripción del software.
+- Se destaca la importancia de diferenciar entre la anotación y la escritura, priorizando la concisión.
+- Se analiza la relevancia del modelo de distribución y la disposición a pagar por un usuario piloto en casos críticos.
+
+Análisis de Negocio y Estrategia
+- Se busca clarificar los objetivos del negocio y las expectativas de crecimiento.
+- Se requiere un pivote estratégico para mejorar el rendimiento, profundizando en el análisis y enfocando mejor los esfuerzos.
+- Se destaca la ventaja competitiva y la disposición de usuarios a pagar por el producto/servicio.
+
+Análisis de Resultados y Planificación
+- Se evalúa el tiempo disponible y la seriedad de las lesiones sufridas.
+- Se analiza la funcionalidad de los sistemas y el objetivo es optimizar el rendimiento.
+- Se discuten los requisitos de usuarios pilotos, idealmente entre 20 y 30, y se considera la segmentación del mercado.
+
+Interacción y Funcionalidad del Epic
+- Se enfatiza la importancia de la interacción con un elemento llamado 'epic'.
+- Se describe el 'epic' como algo centrado en la funcionalidad, no en el diseño.
+- Se menciona la dificultad de cambiar un elemento ('diafragma') en una etapa posterior del desarrollo.
+
+Innovación tecnológica y planificación de proyectos
+- Se busca una innovación tecnológica graduada, refinada a nivel de equipo para evitar problemas.
+- Se requiere un nivel de detalle adecuado para evitar ambigüedades e inconvenientes.
+- Se debe considerar la posibilidad de imprevistos y tener un plan de contingencia.
+
