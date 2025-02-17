@@ -1,7 +1,5 @@
 # Ignacio Warleta
 
-import React from 'react';
-
 <embed src="/PDFs/Commitment/CommitmentAgreement-ignwarmur.pdf" type="application/pdf" width="100%" height="600px" />
 
 
