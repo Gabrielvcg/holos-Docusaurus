@@ -1,6 +1,7 @@
 # Reunion del 07-02-25
 
 **Inicio: 18:32**
+
 **Final: 19:50**
 
 ### Objetivo de la reunion

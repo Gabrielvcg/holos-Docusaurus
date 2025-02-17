@@ -1,6 +1,7 @@
 # Reunión del 05-02-25
 
 **Inicio: 19:00**
+
 **Final: 20:00**
 
 ### Objetivo de la reunión
