@@ -2,7 +2,7 @@
 
 **Fecha: 07/02/2025**
 
-# Grupo 2
+## Grupo 2
 
 GEZSTOCK 
 
@@ -28,7 +28,7 @@ Le ha gustado el orden de presentación (no presentar el equipo justo después d
 
 Se debe especificar mejor los salarios, mayor transparencia, más detalles, les falto el coste de mantenimiento.
 
-# Grupo 3
+## Grupo 3
 
 EVENTBRIDE 
 
@@ -56,7 +56,7 @@ Los perfiles de usuario se piden más tarde, se ha sorprendido con que lo hayan 
 
 Todos tenemos que ahondar mas en los casos de uso y en la tabla comparativa con los competidores. 
 
-# Grupo 4
+## Grupo 4
 
 BORROO
 
@@ -98,7 +98,7 @@ No dar respuestas defensivas, si algo salió mal no protestar.
 En 10 segundos ha encontrado 2 competidores que hacen exactamente lo mismo que su app que el grupo no ha logrado encontrar
 Quedan muchas mas cosas en el tintero, se le acaba el tiempo.
 
-# Grupo 5
+## Grupo 5
 
 Camyo
 
@@ -123,7 +123,7 @@ Se necesitan DECENAS de personas dispuestas a pagar como sondeo.
 Intentar que en las presentaciones las diapositivas NO sean genéricas (Quitar la mayor cantidad de morralla posible).
 Poner datos en crudo que ni se ven es mala idea, decidir que nivel de información se puede ver, contar, leer y asimilar (ver que sobra de la presentación)
 
-# Grupo 6
+## Grupo 6
 
 Gallery Guide App
 
@@ -141,7 +141,7 @@ Observa que sería mejor sino fuera sobre museos sino sobre rutas turísticas en
 Cosas de presentaciones igual que el resto.
 
 
-# FEEDBACK GLOBAL DE LA SESIÓN
+## Feedback de la sesión
 
 Firmar ya el comittment agreement
 Usar clocky YA

@@ -75,10 +75,7 @@ const config = {
         {
           label: 'Actas',
           position: 'left',
-          items: [
-            { label: 'Introducción', to: 'docs/actas/intro-actas' },
-            { label: 'Reuniones', to: 'docs/actas/reuniones' },
-          ],
+          to: 'docs/actas/intro-actas',
         },
         {
           label: 'Documentación Actual',

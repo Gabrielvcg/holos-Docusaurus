@@ -2,7 +2,7 @@
 
 **Fecha: 14/02/2025**
 
-# Grupo 2
+## Grupo 2
 
 GastroStock
 
@@ -40,7 +40,7 @@ reconocer las carencias en las preguntas de los compañeros
 
 como haya una sola palabra en una presentación que no se vea es un suspenso directo
 
-# Grupo 3
+## Grupo 3
 
 EVENTBRIDE 
 
@@ -82,7 +82,7 @@ Falta innovación, hay que convencerse a uno mismo antes de venderle la moto a o
 
 No han tenido en cuenta la infraestructura en el desarrollo en los costes
 
-# Grupo 4
+## Grupo 4
 
 BORROO
 
@@ -112,7 +112,7 @@ No ha aparecido el equipo.
 
 Tienen 185 competidores, quizás no tengan que poner los que no se centren específicamente.
 
-# Grupo 5
+## Grupo 5
 
 Camyo
 
@@ -148,7 +148,7 @@ clasificar los riesgos según prioridad/importancia.
 
 a nivel de quipo, necesitan responsabilidades concretas, quien es el manager?, para los roles es necesario hacer secretario, manager, gestor de conflictos, gestor de calidad...
 
-# Grupo 6
+## Grupo 6
 
 FisioFind
 
@@ -186,5 +186,7 @@ Buena calidad visual, todo se podía ver.
 
 le gustan que tengan ya datos como cuantos usuarios serian necesario para rentabilizar la app.
 
-# FEEDBACK GLOBAL DE LA SESIÓN
+
+
+
 
