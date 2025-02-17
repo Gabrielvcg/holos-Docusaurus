@@ -2,6 +2,12 @@
 
 **Fecha: 14/02/2025**
 
+**Hora inicio: 10:40**
+
+**Hora finalización: 14:37**
+
+**Lugar: Aula H1.12**
+
 ## Grupo 2
 
 GastroStock
@@ -186,7 +192,35 @@ Buena calidad visual, todo se podía ver.
 
 le gustan que tengan ya datos como cuantos usuarios serian necesario para rentabilizar la app.
 
+## Feedback de la sesión
 
+## Tareas
+
+Elevator pitch 50 palabras describiendo la temática
+Inicio efectivo que capte la atención del público 
+Tipo de negocio
+Análisis de competidores
+Costes tco
+Coste personal coste de amortización del proyecto coste de apoyo de infraestructuras github y licencias appengine Costes indirectos y mantenimiento
+Gestion de usuarios piloto
+MVP 
+Mockups más específicos con los objetivos del sprint 1 (Todos los core)
+Innovación
+Plan de gestión de riesgos
+Equipo: Buena imagen - Imagen corporativa - Uniforme y fondo neutro - asignación de roles con skils - Todo el mundo responsabilidad técnica 
+Plan de gestión de la calidad de desarrollo - como medir y solucionar un fallo
+Modelo de análisis rendimiento del equipo cuantitativo - como se analiza
+Herramientas obligatorias Githhub , Actions, Github Projects Clockify
+Gestión de código Definir como etiquetamos las ramas las versiones…
+Varios despliegues diferentes para cada sprint (5 despliegues)
+Page 
+Planificación de desarrollo: Dividir casos de uso en sprints
+Estimación mas concreta para el 1
+Asignaciones para el sprint
+A mitad de sprint cuanto vamos a tener implementado
+Uso de IA
+
+## Otras anotaciones
 
 
 

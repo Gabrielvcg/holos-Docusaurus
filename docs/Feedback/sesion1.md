@@ -2,6 +2,12 @@
 
 **Fecha: 07/02/2025**
 
+**Hora inicio: 10:40**
+
+**Hora finalización: 14:30**
+
+**Lugar: Aula H1.12**
+
 **Feedback de estudiantes**
 
 No ha quedado claro que problema estamos intentando solucionar, es decir, nuestro factor diferenciador.

@@ -1,7 +1,6 @@
+# Reunión del 05-02-25
 
-# Reunion del 05-02-25
-
-### Objetivo de la reunion
+### Objetivo de la reunión
 Objetivo
 
 ### Puntos clave

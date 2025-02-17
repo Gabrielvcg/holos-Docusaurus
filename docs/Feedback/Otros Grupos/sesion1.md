@@ -2,6 +2,12 @@
 
 **Fecha: 07/02/2025**
 
+**Hora inicio: 10:40**
+
+**Hora finalización: 14:30**
+
+**Lugar: Aula H1.12**
+
 ## Grupo 2
 
 GEZSTOCK 
@@ -158,3 +164,7 @@ Si tenemos mucho problema encontrando usuarios piloto, quizás no haya mercado p
 Que método usamos para interactuar con los usuarios piloto (recogida de datos, quedadas)
 En los MVP deberiamos esbozar los Mockups que se centren en la FUNCIONALIDAD
 Refinar el Charter Goal, la composición,etc.. con un nivel de detalle asumible-Se debe mencionar El commitment agreement y el uso de la IA-Esbozar o pensar un Análisis de riesgo inicial (factores de fracaso y planes de contingencia)
+
+## Tareas
+
+## Otras anotaciones

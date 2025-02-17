@@ -2,6 +2,12 @@
 
 **Fecha: 14/02/2025**
 
+**Hora inicio: 10:40**
+
+**Hora finalización: 14:37**
+
+**Lugar: Aula H1.12**
+
 **Feedback de estudiantes**
 
 Desde su perspectiva si la "IA" vuelve a fallar sería grave
